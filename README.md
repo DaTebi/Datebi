@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Datebi
+- 👀 I’m interested in Data Analytics and Data Science.
+- 🌱 I’m currently learning Power BI, SQL and Python.
+- 💞️ I’m looking to collaborate on Python projects.
+- 📫 How to reach me https://www.linkedin.com/in/estebandbaigorria/
