@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Datebi
+- 👋 Hi, I’m @Datebi (Data + Tebi[MyNickname])
 - 👀 I’m interested in Data Analytics and Data Engineering.
 - 💪 I’m currently working with Power BI and SQL
 - 🌱 I’m currently learning Python.
